@@ -1,0 +1,17 @@
+[[
+    {
+      "id": 2,
+      "nombre": "Teclado mecánico",
+      "precio": 89.99
+    },
+    {
+      "nombre": "Monitor",
+      "precio": 333333,
+      "id": 3
+    },
+    {
+      "nombre": "Silla gamer",
+      "precio": 400,
+      "id": 4
+    }
+  ]]
